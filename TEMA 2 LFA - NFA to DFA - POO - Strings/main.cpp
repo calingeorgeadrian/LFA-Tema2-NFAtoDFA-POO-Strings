@@ -1,3 +1,16 @@
+/*Aceasta tema a presupus simularea transformarii unui NFA in DFA
+  Programul primeste la intrare datele unui NFA iar apoi il transforma in DFA
+  La iesire sunt scrise datele DFA-ului
+  
+  Documentatie
+  
+  DFA - https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+  NFA - https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+  NFA to DFA - https://en.wikipedia.org/wiki/Powerset_construction
+  STL Vector - http://www.cplusplus.com/reference/vector/vector/
+  STL Queue - http://www.cplusplus.com/reference/queue/queue/
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
